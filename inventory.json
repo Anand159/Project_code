@@ -4,5 +4,11 @@
     "name": "Milk",
     "price": 40.0,
     "quantity": 20
+  },
+  {
+    "product_id": "2",
+    "name": "watch",
+    "price": 200.0,
+    "quantity": 20
   }
 ]
